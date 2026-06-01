@@ -295,6 +295,19 @@ p + p { margin-top: 1em; }
 
 .nav__cta { margin-left: 8px; }
 
+.nav__deco {
+  display: none;
+  pointer-events: none;
+  list-style: none;
+}
+.nav__deco-svg {
+  width: 100%;
+  max-width: 320px;
+  height: auto;
+  display: block;
+  opacity: 0.85;
+}
+
 .nav__hamburger {
   display: none;
   flex-direction: column;
@@ -1117,6 +1130,7 @@ address a:hover { color: var(--color-primary); }
   .nav__cta { margin: 12px 0 0; }
   .btn.nav__cta { width: 100%; justify-content: center; }
   .nav__hamburger { display: flex; }
+  .nav__deco { display: block; margin-top: 16px; padding: 0 4px; }
 
   .hero__container {
     grid-template-columns: 1fr;
