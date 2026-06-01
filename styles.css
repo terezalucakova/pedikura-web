@@ -1156,6 +1156,8 @@ address a:hover { color: var(--color-primary); }
    RESPONSIVE — MOBILE (≤ 600px)
    ============================================ */
 @media (max-width: 600px) {
+  .hero__title { font-size: clamp(1.55rem, 7vw, 1.9rem); }
+
   .services-grid { grid-template-columns: 1fr; }
   .pricing-grid { grid-template-columns: 1fr; }
   .pricing-card--featured { grid-column: auto; }
