@@ -1,0 +1,88 @@
+<svg viewBox="0 0 440 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Atmosphere blobs -->
+  <ellipse cx="360" cy="155" rx="240" ry="210" fill="#EDCFC8" opacity="0.38"/>
+  <ellipse cx="105" cy="415" rx="200" ry="175" fill="#E2C4AD" opacity="0.25"/>
+  <ellipse cx="295" cy="385" rx="170" ry="148" fill="#ECD6CA" opacity="0.22"/>
+
+  <!-- Large leaf — left -->
+  <path d="M 125 302 C 88 272 73 230 94 194 C 106 177 122 173 135 183 C 152 197 153 234 143 270 C 137 290 131 297 125 302Z" fill="#8B9E6A" opacity="0.45"/>
+  <path d="M 125 302 C 117 270 107 228 113 193" stroke="#6A8E58" stroke-width="1" fill="none" opacity="0.3"/>
+
+  <!-- Large leaf — right -->
+  <path d="M 320 287 C 356 256 373 214 351 177 C 340 161 324 156 313 166 C 297 181 297 218 308 254 C 314 274 318 283 320 287Z" fill="#8B9E6A" opacity="0.42"/>
+  <path d="M 320 287 C 326 256 331 218 322 181" stroke="#6A8E58" stroke-width="1" fill="none" opacity="0.3"/>
+
+  <!-- Small leaf — bottom left -->
+  <path d="M 158 402 C 130 387 109 359 120 329 C 126 314 139 308 151 314 C 167 324 170 353 162 378 C 158 392 158 399 158 402Z" fill="#A4B594" opacity="0.36"/>
+
+  <!-- Small leaf — bottom right -->
+  <path d="M 293 407 C 321 392 342 364 332 333 C 326 318 312 313 300 318 C 284 328 282 357 290 382 C 293 396 293 403 293 407Z" fill="#A4B594" opacity="0.32"/>
+
+  <!-- Stems -->
+  <path d="M 220 348 C 184 340 163 350 158 402" stroke="#C4A060" stroke-width="1.5" fill="none" opacity="0.28"/>
+  <path d="M 220 348 C 256 340 277 350 293 407" stroke="#C4A060" stroke-width="1.5" fill="none" opacity="0.28"/>
+  <path d="M 125 302 C 148 322 178 338 220 348" stroke="#C4A060" stroke-width="1.5" fill="none" opacity="0.28"/>
+  <path d="M 320 287 C 298 310 266 334 220 348" stroke="#C4A060" stroke-width="1.5" fill="none" opacity="0.28"/>
+
+  <!-- PEONY — back petals (8 × 45°) -->
+  <g transform="translate(220 258)">
+    <g transform="rotate(0)">  <path d="M 0 0 C -44 -15 -50 -87 0 -128 C 50 -87 44 -15 0 0Z" fill="#E0BAB6" opacity="0.52"/></g>
+    <g transform="rotate(45)"> <path d="M 0 0 C -44 -15 -50 -87 0 -128 C 50 -87 44 -15 0 0Z" fill="#E0BAB6" opacity="0.52"/></g>
+    <g transform="rotate(90)"> <path d="M 0 0 C -44 -15 -50 -87 0 -128 C 50 -87 44 -15 0 0Z" fill="#E0BAB6" opacity="0.52"/></g>
+    <g transform="rotate(135)"><path d="M 0 0 C -44 -15 -50 -87 0 -128 C 50 -87 44 -15 0 0Z" fill="#E0BAB6" opacity="0.52"/></g>
+    <g transform="rotate(180)"><path d="M 0 0 C -44 -15 -50 -87 0 -128 C 50 -87 44 -15 0 0Z" fill="#E0BAB6" opacity="0.52"/></g>
+    <g transform="rotate(225)"><path d="M 0 0 C -44 -15 -50 -87 0 -128 C 50 -87 44 -15 0 0Z" fill="#E0BAB6" opacity="0.52"/></g>
+    <g transform="rotate(270)"><path d="M 0 0 C -44 -15 -50 -87 0 -128 C 50 -87 44 -15 0 0Z" fill="#E0BAB6" opacity="0.52"/></g>
+    <g transform="rotate(315)"><path d="M 0 0 C -44 -15 -50 -87 0 -128 C 50 -87 44 -15 0 0Z" fill="#E0BAB6" opacity="0.52"/></g>
+  </g>
+
+  <!-- PEONY — middle petals (8 × 45°, offset 22.5°) -->
+  <g transform="translate(220 258)">
+    <g transform="rotate(22.5)"> <path d="M 0 0 C -34 -12 -39 -71 0 -104 C 39 -71 34 -12 0 0Z" fill="#CB9993" opacity="0.68"/></g>
+    <g transform="rotate(67.5)"> <path d="M 0 0 C -34 -12 -39 -71 0 -104 C 39 -71 34 -12 0 0Z" fill="#CB9993" opacity="0.68"/></g>
+    <g transform="rotate(112.5)"><path d="M 0 0 C -34 -12 -39 -71 0 -104 C 39 -71 34 -12 0 0Z" fill="#CB9993" opacity="0.68"/></g>
+    <g transform="rotate(157.5)"><path d="M 0 0 C -34 -12 -39 -71 0 -104 C 39 -71 34 -12 0 0Z" fill="#CB9993" opacity="0.68"/></g>
+    <g transform="rotate(202.5)"><path d="M 0 0 C -34 -12 -39 -71 0 -104 C 39 -71 34 -12 0 0Z" fill="#CB9993" opacity="0.68"/></g>
+    <g transform="rotate(247.5)"><path d="M 0 0 C -34 -12 -39 -71 0 -104 C 39 -71 34 -12 0 0Z" fill="#CB9993" opacity="0.68"/></g>
+    <g transform="rotate(292.5)"><path d="M 0 0 C -34 -12 -39 -71 0 -104 C 39 -71 34 -12 0 0Z" fill="#CB9993" opacity="0.68"/></g>
+    <g transform="rotate(337.5)"><path d="M 0 0 C -34 -12 -39 -71 0 -104 C 39 -71 34 -12 0 0Z" fill="#CB9993" opacity="0.68"/></g>
+  </g>
+
+  <!-- PEONY — inner petals (6 × 60°) -->
+  <g transform="translate(220 258)">
+    <g transform="rotate(0)">  <path d="M 0 0 C -23 -8 -27 -55 0 -80 C 27 -55 23 -8 0 0Z" fill="#C4877F" opacity="0.84"/></g>
+    <g transform="rotate(60)"> <path d="M 0 0 C -23 -8 -27 -55 0 -80 C 27 -55 23 -8 0 0Z" fill="#C4877F" opacity="0.84"/></g>
+    <g transform="rotate(120)"><path d="M 0 0 C -23 -8 -27 -55 0 -80 C 27 -55 23 -8 0 0Z" fill="#C4877F" opacity="0.84"/></g>
+    <g transform="rotate(180)"><path d="M 0 0 C -23 -8 -27 -55 0 -80 C 27 -55 23 -8 0 0Z" fill="#C4877F" opacity="0.84"/></g>
+    <g transform="rotate(240)"><path d="M 0 0 C -23 -8 -27 -55 0 -80 C 27 -55 23 -8 0 0Z" fill="#C4877F" opacity="0.84"/></g>
+    <g transform="rotate(300)"><path d="M 0 0 C -23 -8 -27 -55 0 -80 C 27 -55 23 -8 0 0Z" fill="#C4877F" opacity="0.84"/></g>
+  </g>
+
+  <!-- Flower centre -->
+  <circle cx="220" cy="258" r="22" fill="#C4A060" opacity="0.92"/>
+  <circle cx="220" cy="258" r="13" fill="#A8655E"/>
+  <circle cx="215" cy="253" r="2.5" fill="#FAF7F2" opacity="0.5"/>
+  <circle cx="225" cy="251" r="2"   fill="#FAF7F2" opacity="0.45"/>
+  <circle cx="223" cy="263" r="2"   fill="#FAF7F2" opacity="0.4"/>
+  <circle cx="213" cy="261" r="1.5" fill="#FAF7F2" opacity="0.4"/>
+
+  <!-- Small bud — upper right, with stem -->
+  <path d="M 358 183 C 350 166 344 154 358 142 C 372 154 368 170 358 183Z" fill="#DDB8B3" opacity="0.55"/>
+  <path d="M 358 183 L 355 200 C 345 214 330 224 318 236" stroke="#C4A060" stroke-width="1.5" fill="none" opacity="0.3"/>
+
+  <!-- Small bud — upper left, with stem -->
+  <path d="M 88 234 C 80 217 74 205 88 193 C 102 205 98 221 88 234Z" fill="#DDB8B3" opacity="0.52"/>
+  <path d="M 88 234 L 92 252 C 104 266 120 272 135 283" stroke="#C4A060" stroke-width="1.5" fill="none" opacity="0.3"/>
+
+  <!-- Scattered dots -->
+  <circle cx="308" cy="113" r="4"   fill="#C4877F" opacity="0.28"/>
+  <circle cx="334" cy="138" r="2.5" fill="#DDB8B3" opacity="0.38"/>
+  <circle cx="289" cy="98"  r="2"   fill="#C4877F" opacity="0.22"/>
+  <circle cx="352" cy="88"  r="3"   fill="#C4A060" opacity="0.2"/>
+  <circle cx="132" cy="143" r="3"   fill="#DDB8B3" opacity="0.32"/>
+  <circle cx="106" cy="163" r="2"   fill="#C4877F" opacity="0.28"/>
+  <circle cx="156" cy="128" r="1.5" fill="#C4A060" opacity="0.22"/>
+  <circle cx="392" cy="278" r="2.5" fill="#DDB8B3" opacity="0.28"/>
+  <circle cx="52"  cy="328" r="2"   fill="#C4877F" opacity="0.22"/>
+  <circle cx="382" cy="418" r="3"   fill="#DDB8B3" opacity="0.22"/>
+</svg>

@@ -1,0 +1,55 @@
+<!-- Věra Pavlíková — daisy (simple, clean) -->
+<svg viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background — slightly cooler tone -->
+  <rect width="400" height="300" fill="#F5EEE8"/>
+  <ellipse cx="200" cy="120" rx="230" ry="200" fill="#EAD4C4" opacity="0.35"/>
+  <ellipse cx="310" cy="260" rx="150" ry="120" fill="#DEC8B0" opacity="0.2"/>
+  <ellipse cx="70"  cy="50"  rx="130" ry="100" fill="#F0DDD2" opacity="0.25"/>
+
+  <!-- Stem -->
+  <path d="M 200 230 L 200 162" stroke="#8B9E6A" stroke-width="2" fill="none"/>
+  <!-- Leaves -->
+  <path d="M 200 205 C 176 197 159 181 166 162 C 170 153 181 150 190 156 C 200 165 200 186 200 205Z" fill="#8B9E6A" opacity="0.48"/>
+  <path d="M 200 205 C 189 184 183 163 185 158" stroke="#6A8E58" stroke-width="1" fill="none" opacity="0.3"/>
+  <path d="M 200 190 C 224 182 241 166 235 147 C 230 138 220 135 211 141 C 200 151 200 170 200 190Z" fill="#8B9E6A" opacity="0.43"/>
+  <path d="M 200 190 C 211 169 216 149 214 144" stroke="#6A8E58" stroke-width="1" fill="none" opacity="0.28"/>
+
+  <!-- DAISY — 12 long slim petals -->
+  <g transform="translate(200 130)">
+    <g transform="rotate(0)">   <ellipse cx="0" cy="-55" rx="8" ry="32" fill="#EDE0D4" opacity="0.8"/></g>
+    <g transform="rotate(30)">  <ellipse cx="0" cy="-55" rx="8" ry="32" fill="#EDE0D4" opacity="0.8"/></g>
+    <g transform="rotate(60)">  <ellipse cx="0" cy="-55" rx="8" ry="32" fill="#EDE0D4" opacity="0.8"/></g>
+    <g transform="rotate(90)">  <ellipse cx="0" cy="-55" rx="8" ry="32" fill="#EDE0D4" opacity="0.8"/></g>
+    <g transform="rotate(120)"> <ellipse cx="0" cy="-55" rx="8" ry="32" fill="#EDE0D4" opacity="0.8"/></g>
+    <g transform="rotate(150)"> <ellipse cx="0" cy="-55" rx="8" ry="32" fill="#EDE0D4" opacity="0.8"/></g>
+    <g transform="rotate(180)"> <ellipse cx="0" cy="-55" rx="8" ry="32" fill="#EDE0D4" opacity="0.8"/></g>
+    <g transform="rotate(210)"> <ellipse cx="0" cy="-55" rx="8" ry="32" fill="#EDE0D4" opacity="0.8"/></g>
+    <g transform="rotate(240)"> <ellipse cx="0" cy="-55" rx="8" ry="32" fill="#EDE0D4" opacity="0.8"/></g>
+    <g transform="rotate(270)"> <ellipse cx="0" cy="-55" rx="8" ry="32" fill="#EDE0D4" opacity="0.8"/></g>
+    <g transform="rotate(300)"> <ellipse cx="0" cy="-55" rx="8" ry="32" fill="#EDE0D4" opacity="0.8"/></g>
+    <g transform="rotate(330)"> <ellipse cx="0" cy="-55" rx="8" ry="32" fill="#EDE0D4" opacity="0.8"/></g>
+    <!-- Golden centre -->
+    <circle cx="0" cy="0" r="22" fill="#C4877F" opacity="0.85"/>
+    <circle cx="0" cy="0" r="16" fill="#C4A060"/>
+    <circle cx="0" cy="0" r="10" fill="#A8655E"/>
+    <!-- Texture dots -->
+    <circle cx="-3" cy="-3" r="2"   fill="#FAF7F2" opacity="0.4"/>
+    <circle cx=" 4" cy="-2" r="1.5" fill="#FAF7F2" opacity="0.35"/>
+    <circle cx=" 2" cy=" 5" r="1.5" fill="#FAF7F2" opacity="0.35"/>
+    <circle cx="-5" cy=" 3" r="1.5" fill="#FAF7F2" opacity="0.3"/>
+  </g>
+
+  <!-- Small side buds -->
+  <path d="M 248 150 C 242 139 238 130 248 121 C 258 130 255 142 248 150Z" fill="#DDB8B3" opacity="0.5"/>
+  <path d="M 248 150 L 245 162 C 238 168 225 168 218 168" stroke="#C4A060" stroke-width="1.2" fill="none" opacity="0.28"/>
+
+  <path d="M 152 155 C 146 144 142 135 152 126 C 162 135 159 147 152 155Z" fill="#DDB8B3" opacity="0.45"/>
+  <path d="M 152 155 L 155 165 C 160 172 172 172 182 172" stroke="#C4A060" stroke-width="1.2" fill="none" opacity="0.25"/>
+
+  <!-- Dots -->
+  <circle cx="308" cy="72"  r="3"   fill="#C4877F" opacity="0.22"/>
+  <circle cx="330" cy="94"  r="2"   fill="#DDB8B3" opacity="0.3"/>
+  <circle cx="82"  cy="228" r="2.5" fill="#DDB8B3" opacity="0.26"/>
+  <circle cx="340" cy="220" r="2"   fill="#C4A060" opacity="0.18"/>
+  <circle cx="58"  cy="200" r="1.5" fill="#C4877F" opacity="0.2"/>
+</svg>

@@ -1,0 +1,57 @@
+<!-- Hanka Víchová — rose (classic, experienced) -->
+<svg viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="400" height="300" fill="#F7EFE9"/>
+  <ellipse cx="200" cy="130" rx="230" ry="200" fill="#EDCFC8" opacity="0.38"/>
+  <ellipse cx="80"  cy="250" rx="160" ry="130" fill="#E2C4AD" opacity="0.2"/>
+  <ellipse cx="330" cy="60"  rx="140" ry="110" fill="#ECD6CA" opacity="0.22"/>
+
+  <!-- Stem and leaves -->
+  <path d="M 200 220 L 200 168" stroke="#8B9E6A" stroke-width="2" fill="none"/>
+  <!-- Left leaf -->
+  <path d="M 200 195 C 178 188 162 174 168 156 C 172 147 182 145 190 151 C 200 160 200 178 200 195Z" fill="#8B9E6A" opacity="0.5"/>
+  <path d="M 200 195 C 190 175 185 158 186 153" stroke="#6A8E58" stroke-width="1" fill="none" opacity="0.35"/>
+  <!-- Right leaf -->
+  <path d="M 200 185 C 222 178 238 164 232 146 C 228 137 218 135 210 141 C 200 150 200 168 200 185Z" fill="#8B9E6A" opacity="0.45"/>
+  <path d="M 200 185 C 210 165 215 148 214 143" stroke="#6A8E58" stroke-width="1" fill="none" opacity="0.3"/>
+
+  <!-- Rose — back petals (8 × 45°) -->
+  <g transform="translate(200 130)">
+    <g transform="rotate(0)">  <path d="M 0 0 C -36 -12 -41 -72 0 -105 C 41 -72 36 -12 0 0Z" fill="#E0BAB6" opacity="0.5"/></g>
+    <g transform="rotate(45)"> <path d="M 0 0 C -36 -12 -41 -72 0 -105 C 41 -72 36 -12 0 0Z" fill="#E0BAB6" opacity="0.5"/></g>
+    <g transform="rotate(90)"> <path d="M 0 0 C -36 -12 -41 -72 0 -105 C 41 -72 36 -12 0 0Z" fill="#E0BAB6" opacity="0.5"/></g>
+    <g transform="rotate(135)"><path d="M 0 0 C -36 -12 -41 -72 0 -105 C 41 -72 36 -12 0 0Z" fill="#E0BAB6" opacity="0.5"/></g>
+    <g transform="rotate(180)"><path d="M 0 0 C -36 -12 -41 -72 0 -105 C 41 -72 36 -12 0 0Z" fill="#E0BAB6" opacity="0.5"/></g>
+    <g transform="rotate(225)"><path d="M 0 0 C -36 -12 -41 -72 0 -105 C 41 -72 36 -12 0 0Z" fill="#E0BAB6" opacity="0.5"/></g>
+    <g transform="rotate(270)"><path d="M 0 0 C -36 -12 -41 -72 0 -105 C 41 -72 36 -12 0 0Z" fill="#E0BAB6" opacity="0.5"/></g>
+    <g transform="rotate(315)"><path d="M 0 0 C -36 -12 -41 -72 0 -105 C 41 -72 36 -12 0 0Z" fill="#E0BAB6" opacity="0.5"/></g>
+    <!-- Middle (offset 22.5°) -->
+    <g transform="rotate(22.5)"> <path d="M 0 0 C -28 -10 -32 -57 0 -83 C 32 -57 28 -10 0 0Z" fill="#C9948E" opacity="0.68"/></g>
+    <g transform="rotate(67.5)"> <path d="M 0 0 C -28 -10 -32 -57 0 -83 C 32 -57 28 -10 0 0Z" fill="#C9948E" opacity="0.68"/></g>
+    <g transform="rotate(112.5)"><path d="M 0 0 C -28 -10 -32 -57 0 -83 C 32 -57 28 -10 0 0Z" fill="#C9948E" opacity="0.68"/></g>
+    <g transform="rotate(157.5)"><path d="M 0 0 C -28 -10 -32 -57 0 -83 C 32 -57 28 -10 0 0Z" fill="#C9948E" opacity="0.68"/></g>
+    <g transform="rotate(202.5)"><path d="M 0 0 C -28 -10 -32 -57 0 -83 C 32 -57 28 -10 0 0Z" fill="#C9948E" opacity="0.68"/></g>
+    <g transform="rotate(247.5)"><path d="M 0 0 C -28 -10 -32 -57 0 -83 C 32 -57 28 -10 0 0Z" fill="#C9948E" opacity="0.68"/></g>
+    <g transform="rotate(292.5)"><path d="M 0 0 C -28 -10 -32 -57 0 -83 C 32 -57 28 -10 0 0Z" fill="#C9948E" opacity="0.68"/></g>
+    <g transform="rotate(337.5)"><path d="M 0 0 C -28 -10 -32 -57 0 -83 C 32 -57 28 -10 0 0Z" fill="#C9948E" opacity="0.68"/></g>
+    <!-- Inner (6 × 60°) -->
+    <g transform="rotate(0)">  <path d="M 0 0 C -18 -6 -21 -44 0 -64 C 21 -44 18 -6 0 0Z" fill="#C4877F" opacity="0.85"/></g>
+    <g transform="rotate(60)"> <path d="M 0 0 C -18 -6 -21 -44 0 -64 C 21 -44 18 -6 0 0Z" fill="#C4877F" opacity="0.85"/></g>
+    <g transform="rotate(120)"><path d="M 0 0 C -18 -6 -21 -44 0 -64 C 21 -44 18 -6 0 0Z" fill="#C4877F" opacity="0.85"/></g>
+    <g transform="rotate(180)"><path d="M 0 0 C -18 -6 -21 -44 0 -64 C 21 -44 18 -6 0 0Z" fill="#C4877F" opacity="0.85"/></g>
+    <g transform="rotate(240)"><path d="M 0 0 C -18 -6 -21 -44 0 -64 C 21 -44 18 -6 0 0Z" fill="#C4877F" opacity="0.85"/></g>
+    <g transform="rotate(300)"><path d="M 0 0 C -18 -6 -21 -44 0 -64 C 21 -44 18 -6 0 0Z" fill="#C4877F" opacity="0.85"/></g>
+    <!-- Centre -->
+    <circle cx="0" cy="0" r="18" fill="#C4A060" opacity="0.9"/>
+    <circle cx="0" cy="0" r="11" fill="#A8655E"/>
+    <circle cx="-4" cy="-4" r="2" fill="#FAF7F2" opacity="0.45"/>
+    <circle cx=" 4" cy="-3" r="1.5" fill="#FAF7F2" opacity="0.4"/>
+  </g>
+
+  <!-- Dots -->
+  <circle cx="320" cy="80"  r="3"   fill="#C4877F" opacity="0.25"/>
+  <circle cx="295" cy="58"  r="2"   fill="#DDB8B3" opacity="0.32"/>
+  <circle cx="90"  cy="220" r="2.5" fill="#DDB8B3" opacity="0.28"/>
+  <circle cx="68"  cy="238" r="2"   fill="#C4877F" opacity="0.22"/>
+  <circle cx="340" cy="230" r="2"   fill="#C4A060" opacity="0.2"/>
+</svg>

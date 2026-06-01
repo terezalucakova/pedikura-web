@@ -1,0 +1,69 @@
+<!-- Sylva Hottková — magnolia (sophisticated, wellness) -->
+<svg viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background — warmest tone -->
+  <rect width="400" height="300" fill="#F8F0EA"/>
+  <ellipse cx="200" cy="115" rx="230" ry="200" fill="#EDD5C0" opacity="0.35"/>
+  <ellipse cx="80"  cy="255" rx="150" ry="120" fill="#E2C4AD" opacity="0.22"/>
+  <ellipse cx="350" cy="55"  rx="130" ry="105" fill="#F0DDD2" opacity="0.28"/>
+
+  <!-- Stem -->
+  <path d="M 200 232 L 200 170" stroke="#8B9E6A" stroke-width="2" fill="none"/>
+  <!-- Leaves — curved, elegant -->
+  <path d="M 200 210 C 173 200 154 180 163 158 C 168 147 180 144 190 150 C 202 160 202 185 200 210Z" fill="#8B9E6A" opacity="0.46"/>
+  <path d="M 200 210 C 188 183 182 160 185 155" stroke="#6A8E58" stroke-width="1" fill="none" opacity="0.3"/>
+  <path d="M 200 195 C 227 185 246 165 237 143 C 232 133 220 130 211 136 C 200 147 200 170 200 195Z" fill="#8B9E6A" opacity="0.42"/>
+  <path d="M 200 195 C 212 172 218 150 215 143" stroke="#6A8E58" stroke-width="1" fill="none" opacity="0.28"/>
+
+  <!-- MAGNOLIA — 6 large elegant petals, slightly open -->
+  <g transform="translate(200 130)">
+    <!-- Outer petals — slightly separated, airy -->
+    <g transform="rotate(0)">
+      <path d="M 0 0 C -18 -8 -22 -55 0 -88 C 22 -55 18 -8 0 0Z" fill="#EDD5CE" opacity="0.6" transform="translate(0,-8)"/>
+    </g>
+    <g transform="rotate(60)">
+      <path d="M 0 0 C -18 -8 -22 -55 0 -88 C 22 -55 18 -8 0 0Z" fill="#EDD5CE" opacity="0.6" transform="translate(0,-8)"/>
+    </g>
+    <g transform="rotate(120)">
+      <path d="M 0 0 C -18 -8 -22 -55 0 -88 C 22 -55 18 -8 0 0Z" fill="#EDD5CE" opacity="0.6" transform="translate(0,-8)"/>
+    </g>
+    <g transform="rotate(180)">
+      <path d="M 0 0 C -18 -8 -22 -55 0 -88 C 22 -55 18 -8 0 0Z" fill="#EDD5CE" opacity="0.6" transform="translate(0,-8)"/>
+    </g>
+    <g transform="rotate(240)">
+      <path d="M 0 0 C -18 -8 -22 -55 0 -88 C 22 -55 18 -8 0 0Z" fill="#EDD5CE" opacity="0.6" transform="translate(0,-8)"/>
+    </g>
+    <g transform="rotate(300)">
+      <path d="M 0 0 C -18 -8 -22 -55 0 -88 C 22 -55 18 -8 0 0Z" fill="#EDD5CE" opacity="0.6" transform="translate(0,-8)"/>
+    </g>
+    <!-- Inner petals — slightly darker, upright -->
+    <g transform="rotate(30)"> <path d="M 0 0 C -14 -6 -17 -50 0 -72 C 17 -50 14 -6 0 0Z" fill="#D4A095" opacity="0.78"/></g>
+    <g transform="rotate(90)"> <path d="M 0 0 C -14 -6 -17 -50 0 -72 C 17 -50 14 -6 0 0Z" fill="#D4A095" opacity="0.78"/></g>
+    <g transform="rotate(150)"><path d="M 0 0 C -14 -6 -17 -50 0 -72 C 17 -50 14 -6 0 0Z" fill="#D4A095" opacity="0.78"/></g>
+    <g transform="rotate(210)"><path d="M 0 0 C -14 -6 -17 -50 0 -72 C 17 -50 14 -6 0 0Z" fill="#D4A095" opacity="0.78"/></g>
+    <g transform="rotate(270)"><path d="M 0 0 C -14 -6 -17 -50 0 -72 C 17 -50 14 -6 0 0Z" fill="#D4A095" opacity="0.78"/></g>
+    <g transform="rotate(330)"><path d="M 0 0 C -14 -6 -17 -50 0 -72 C 17 -50 14 -6 0 0Z" fill="#D4A095" opacity="0.78"/></g>
+    <!-- Stamens column (magnolia signature) -->
+    <ellipse cx="0" cy="-8" rx="7" ry="22" fill="#C4A060" opacity="0.88"/>
+    <ellipse cx="0" cy="-8" rx="4" ry="18" fill="#A8655E"/>
+    <!-- Top of stamens -->
+    <circle cx="0" cy="-24" r="6"  fill="#C4877F" opacity="0.9"/>
+    <circle cx="0" cy="-24" r="3.5" fill="#A8655E"/>
+  </g>
+
+  <!-- Branch detail -->
+  <path d="M 200 170 C 220 166 240 160 252 148" stroke="#C4A060" stroke-width="1.2" fill="none" opacity="0.28"/>
+  <path d="M 200 180 C 180 174 158 165 148 152" stroke="#C4A060" stroke-width="1.2" fill="none" opacity="0.25"/>
+
+  <!-- Small bud on right -->
+  <path d="M 252 148 C 246 136 242 127 252 118 C 262 127 259 139 252 148Z" fill="#DDB8B3" opacity="0.52"/>
+  <!-- Small bud on left -->
+  <path d="M 148 152 C 142 140 138 131 148 122 C 158 131 155 143 148 152Z" fill="#DDB8B3" opacity="0.48"/>
+
+  <!-- Dots -->
+  <circle cx="315" cy="68"  r="3"   fill="#C4877F" opacity="0.22"/>
+  <circle cx="338" cy="88"  r="2"   fill="#DDB8B3" opacity="0.3"/>
+  <circle cx="78"  cy="230" r="2.5" fill="#DDB8B3" opacity="0.25"/>
+  <circle cx="342" cy="225" r="2"   fill="#C4A060" opacity="0.18"/>
+  <circle cx="55"  cy="208" r="1.5" fill="#C4877F" opacity="0.2"/>
+  <circle cx="370" cy="190" r="2"   fill="#DDB8B3" opacity="0.22"/>
+</svg>
