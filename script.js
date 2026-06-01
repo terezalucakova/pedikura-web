@@ -14,12 +14,14 @@
   /* ---- Mobile hamburger menu ---- */
   const hamburger = document.getElementById('hamburger');
   const navMenu = document.getElementById('navMenu');
+  const navDeco = document.querySelector('.nav__deco');
 
   function closeMenu() {
     hamburger.classList.remove('open');
     navMenu.classList.remove('open');
     hamburger.setAttribute('aria-expanded', 'false');
     document.body.style.overflow = '';
+    if (navDeco) navDeco.style.display = 'none';
   }
 
   hamburger.addEventListener('click', function () {
@@ -27,6 +29,7 @@
     hamburger.classList.toggle('open', isOpen);
     hamburger.setAttribute('aria-expanded', String(isOpen));
     document.body.style.overflow = isOpen ? 'hidden' : '';
+    if (navDeco) navDeco.style.display = isOpen ? 'block' : 'none';
   });
 
   navMenu.querySelectorAll('.nav__link').forEach(function (link) {
