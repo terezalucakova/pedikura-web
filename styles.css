@@ -590,6 +590,11 @@ p + p { margin-top: 1em; }
   color: var(--color-text-light);
   margin-bottom: 20px;
 }
+.problems-cta .btn {
+  white-space: normal;
+  width: 100%;
+  justify-content: center;
+}
 
 /* ============================================
    PRO DIABETIKY
