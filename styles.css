@@ -1136,7 +1136,7 @@ address a:hover { color: var(--color-primary); }
   }
   .hero__subtitle { margin-left: auto; margin-right: auto; }
   .hero__actions { justify-content: center; }
-  .hero__features { align-items: center; }
+  .hero__features { align-items: flex-start; }
   .hero__visual { display: none; }
 
   .two-col {
